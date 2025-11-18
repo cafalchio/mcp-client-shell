@@ -15,3 +15,17 @@ It allows you to list available tools, call them with required parameters, and v
 
 - Python 3.10+
 - FastMCP >= 2.13.1
+
+## Install
+
+Install via pip:
+    pip install mcp-client-shell
+
+Or from source:
+    git clone https://github.com/cafalchio/mcp-client-shell.git
+    cd mcp-client-shell
+    pip install -e .
+
+## Run
+
+    mcp-client-shell
