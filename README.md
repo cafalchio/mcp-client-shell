@@ -1,5 +1,5 @@
 # MCP Client Shell
-
+[![Upload Python Package](https://github.com/cafalchio/mcp-client-shell/actions/workflows/python-publish.yml/badge.svg)](https://github.com/cafalchio/mcp-client-shell/actions/workflows/python-publish.yml)
 `mcp-client-shell` is a lightweight Python client to interact with FastMCP servers locally.  
 It allows you to list available tools, call them with required parameters, and view results directly in your terminal.
 
