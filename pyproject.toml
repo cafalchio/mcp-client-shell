@@ -8,3 +8,6 @@ dependencies = ["fastmcp>=2.13.1"]
 
 authors = [{ name = "Matheus Cafalchio", email = "mcafalchio@gmail.com" }]
 license = { text = "MIT" }
+
+[project.scripts]
+local-mcp-server = "local_mcp_server.client:main"
