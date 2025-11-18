@@ -1,6 +1,6 @@
 [project]
 name = "mcp-client-shell"
-version = "0.1"
+version = "0.2"
 description = "A local MCP client for testing FastMCP servers"
 readme = "README.md"
 requires-python = ">=3.13"
