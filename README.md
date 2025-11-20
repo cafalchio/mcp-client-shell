@@ -28,4 +28,8 @@ Or from source:
 
 ## Run
 
-    mcp-client-shell
+    cd mcp-clien-shell
+    uv venv
+    source .venv/bin/activate
+    uv sync
+    python main.py
